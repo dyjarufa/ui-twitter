@@ -13,16 +13,18 @@ import {
   User,
 } from 'phosphor-react'
 
+import { NavLink } from 'react-router-dom'
+
 export function Sidebar() {
   return (
     <aside className="sidebar">
       <img src={logoTwitter} alt="logo" className="logo" />
 
       <nav className="main-navigation">
-        <a className="active" href="">
+        <NavLink to="/">
           <House weight="fill" />
           Home
-        </a>
+        </NavLink>
         <a href="">
           <Hash />
           Explore

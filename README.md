@@ -6,6 +6,8 @@ Here's an enhanced README for your project that includes the additional technolo
 
 This project recreates the Twitter timeline interface, designed to be responsive and familiar to users of the popular social media platform. 🎯
 
+![Description of image](/assets/iframe_twitter.png)
+
 ## Technologies Used 👨🏻‍💻:
 
 - **React**: For building a dynamic and interactive UI resembling the Twitter timeline.
@@ -27,10 +29,3 @@ This project recreates the Twitter timeline interface, designed to be responsive
 
 <p>
 <img src="./assets/desktop_screen_home.png" width="100%" height="auto">
-<img src="./assets/desktop_screen_status.png" width="100%" height="auto">
-<p/>
-
-<p>
-<img src="./assets/mobile_screen_home.png" width="48%" height="auto">
-<img src="./assets/mobile_screen_status.png" width="48%" height="auto">
-<p/>
